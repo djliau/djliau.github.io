@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-![Applications & Mental Health](images/about_graphic.jpg){: width="250"} 
-
-Image: Adobe.(2024).*Firefly* [Generative AI tool]. https://firefly.adobe.com/
-
 Welcome to my exploration of the intersection between educational technology design and adolescent mental health. In an age where mobile devices are central to learning and daily life, the relationship between technology and mental well-being has never been more crucial.
 
 My research focuses on how the design of educational mobile applications influences the mental health of teenagers. I uncover design elements that may harm or support adolescent well-being by analyzing recent studies (2014–2024).
@@ -29,3 +25,7 @@ This website serves as a centralized hub for:
 * Resources and links to additional educational applications and technology information.
 
 I aim to bring awareness to the complex relationship between humanity and technology, and promote a healthier approach to educational technology design and integration.
+
+![Applications & Mental Health](images/about_graphic.jpg){: width="250"} 
+
+Image: Adobe.(2024).*Firefly* [Generative AI tool]. https://firefly.adobe.com/

@@ -16,9 +16,9 @@ Download [PDF](/files/djliau_ed6590_litreview_final.pdf)
 
 ## Infographics
 
-[Recommendations for Educators]
+[Recommendations for Educators](/files/edapp_edu.pdf)
 
-[Recommendations for Application Designers]
+[Recommendations for Application Designers](/files/edapp_dev.pdf)
 
 ## Mental Health Apps and Resources
 
