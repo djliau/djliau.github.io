@@ -7,9 +7,9 @@ redirect_from:
   - "/findings.html"
 ---
 
-* Design features like gamification and notifications may unintentionally harm mental
-health
+* Applications, including educational applications (EDAPP), are designed for engagement and overlook adverse effects of prolonged device usage (e.g. blue light, addiction, anxiety).
 
-* Prolonged usage of mobile devices is a primary source of adverse mental health effects 
+* Educating about mental health is key for teenagers, and EDAPPs are one channel for delivery of content.
 
-* ADD MORE HERE
+* Supporting teenager's overall well-being, particularly sleep, may be more beneficial to mental health than EDAPP-based treatment strategies.
+

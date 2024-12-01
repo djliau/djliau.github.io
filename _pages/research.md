@@ -7,9 +7,16 @@ redirect_from:
   - "/research.html"
 ---
 
-* The impact of EDAPP design on teenagers’ mental health is complex and nuanced, with both
-positive and negative outcomes.
-* Supporting physical health (e.g., sleep) has a more beneficial effect on mental
-health than engagement-focused features.
-* Mental health awareness education is critical, and EDAPPs can serve as a useful
-channel for this demographic.
+
+## Purpose
+
+The purpose of this research is to examine design features of educational applications (EDAPP) and their impact on teenager's mental health. By uncovering the effects of EDAPP design elements, it can highlight ways to integrate EDAPPs into education in a way that supports teenagers' well-being.
+
+## Research Questions
+
+1. What is the impact of educational application design on the mental health of teenage learners?
+
+2. Which design elements adversely affect teenage learners?
+
+3. How can educational applications be designed to improve student mental health?
+
